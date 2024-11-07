@@ -1,8 +1,8 @@
-Here's a README for your embeddings workshop:
-
-# Text Embeddings Workshop
+# How to teach new things to your AI
 
 A hands-on workshop exploring how to work with text embeddings for search and retrieval, using modern Python tools and libraries.
+
+Companion to the talk "[How to teach new things to your AI](https://docs.google.com/presentation/d/1so8_4HOEu9WsowwXYrVafhxLB4A3pM36uaWsg34PQCQ/edit?usp=sharing)".
 
 ## Overview
 
